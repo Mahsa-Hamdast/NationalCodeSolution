@@ -1,0 +1,6 @@
+@NationalCode.Api_HostAddress = http://localhost:5050
+
+GET {{NationalCode.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
